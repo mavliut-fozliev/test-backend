@@ -12,9 +12,9 @@ properties:
     description: Description of the transaction_id input
     options:
       position: bottom
-  name:
-    type: string
-    title: name
+  obje1:
+    type: object
+    title: obje1
     description: Description of the transaction_id input
     options:
       position: bottom
